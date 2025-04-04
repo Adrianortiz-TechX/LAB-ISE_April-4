@@ -1,0 +1,46 @@
+Name,Universe,HasSuperStrength,CanFly,IsAlien,UsesWeapons,HasGadget,HasHealingFactor,IsMutant,IsMagicUser
+Superman,DC,1,1,1,0,0,0,0,0
+Batman,DC,0,0,0,1,1,0,0,0
+Wonder Woman,DC,1,1,0,1,0,0,0,0
+Flash,DC,0,0,0,0,0,1,0,0
+Green Lantern,DC,1,1,0,1,1,0,0,0
+Aquaman,DC,1,0,0,1,0,0,0,0
+Cyborg,DC,1,0,0,1,1,1,0,0
+Shazam,DC,1,1,0,0,0,0,0,1
+Martian Manhunter,DC,1,1,1,0,0,0,0,1
+Zatanna,DC,0,0,0,0,0,0,0,1
+Hawkman,DC,1,1,0,1,0,0,0,0
+Green Arrow,DC,0,0,0,1,1,0,0,0
+Black Canary,DC,0,0,0,0,0,0,0,0
+Raven,DC,0,1,0,0,0,0,0,1
+Blue Beetle,DC,1,1,0,1,1,0,0,0
+Nightwing,DC,0,0,0,1,1,0,0,0
+Robin,DC,0,0,0,1,1,0,0,0
+Dr. Fate,DC,1,1,0,0,0,0,0,1
+Constantine,DC,0,0,0,0,0,0,0,1
+Supergirl,DC,1,1,1,0,0,0,0,0
+Spider-Man,Marvel,0,0,0,1,1,1,1,0
+Iron Man,Marvel,1,1,0,1,1,0,0,0
+Captain America,Marvel,1,0,0,1,0,1,0,0
+Thor,Marvel,1,1,1,1,0,0,0,1
+Hulk,Marvel,1,0,0,0,0,1,1,0
+Black Widow,Marvel,0,0,0,1,1,0,0,0
+Hawkeye,Marvel,0,0,0,1,1,0,0,0
+Doctor Strange,Marvel,0,1,0,0,0,0,0,1
+Scarlet Witch,Marvel,1,1,0,0,0,0,0,1
+Vision,Marvel,1,1,1,0,0,1,0,0
+Black Panther,Marvel,1,0,0,1,1,0,0,0
+Wolverine,Marvel,1,0,0,1,0,1,1,0
+Deadpool,Marvel,1,0,0,1,0,1,1,0
+Storm,Marvel,1,1,0,0,0,0,1,1
+Jean Grey,Marvel,0,1,0,0,0,0,1,1
+Cyclops,Marvel,0,0,0,1,0,0,1,0
+Beast,Marvel,1,0,0,0,0,0,1,0
+Rogue,Marvel,1,0,0,0,0,0,1,0
+Gambit,Marvel,0,0,0,1,0,0,1,0
+Iceman,Marvel,1,0,0,0,0,0,1,0
+Ant-Man,Marvel,0,1,0,1,1,0,0,0
+Wasp,Marvel,0,1,0,1,1,0,0,0
+Star-Lord,Marvel,0,0,1,1,1,0,0,0
+Gamora,Marvel,1,0,1,1,0,0,0,0
+Drax,Marvel,1,0,1,1,0,0,0,0
